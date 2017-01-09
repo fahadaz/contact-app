@@ -1,0 +1,7 @@
+{
+  "db": {
+    "url": "postgres://Heroku-PostGress?ssl=true",
+    "name": "db",
+    "connector": "postgresql"
+  }
+}
